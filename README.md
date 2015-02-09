@@ -1,2 +1,1 @@
-# go_jni_maker
-helper to integrate golang (1.4.1) with android studio
+http://gaxxx.github.io/2015/02/09/Go-141-in-Android/
